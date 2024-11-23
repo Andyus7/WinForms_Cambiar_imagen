@@ -1,0 +1,17 @@
+C:\Users\pache\source\repos\WinFormPictureBox\bin\Debug\net8.0-windows\WinFormPictureBox.exe
+C:\Users\pache\source\repos\WinFormPictureBox\bin\Debug\net8.0-windows\WinFormPictureBox.deps.json
+C:\Users\pache\source\repos\WinFormPictureBox\bin\Debug\net8.0-windows\WinFormPictureBox.runtimeconfig.json
+C:\Users\pache\source\repos\WinFormPictureBox\bin\Debug\net8.0-windows\WinFormPictureBox.dll
+C:\Users\pache\source\repos\WinFormPictureBox\bin\Debug\net8.0-windows\WinFormPictureBox.pdb
+C:\Users\pache\source\repos\WinFormPictureBox\obj\Debug\net8.0-windows\WinFormPictureBox.Form1.resources
+C:\Users\pache\source\repos\WinFormPictureBox\obj\Debug\net8.0-windows\WinFormPictureBox.Properties.Resources.resources
+C:\Users\pache\source\repos\WinFormPictureBox\obj\Debug\net8.0-windows\WinFormPictureBox.csproj.GenerateResource.cache
+C:\Users\pache\source\repos\WinFormPictureBox\obj\Debug\net8.0-windows\WinFormPictureBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pache\source\repos\WinFormPictureBox\obj\Debug\net8.0-windows\WinFormPictureBox.AssemblyInfoInputs.cache
+C:\Users\pache\source\repos\WinFormPictureBox\obj\Debug\net8.0-windows\WinFormPictureBox.AssemblyInfo.cs
+C:\Users\pache\source\repos\WinFormPictureBox\obj\Debug\net8.0-windows\WinFormPictureBox.csproj.CoreCompileInputs.cache
+C:\Users\pache\source\repos\WinFormPictureBox\obj\Debug\net8.0-windows\WinFormPictureBox.dll
+C:\Users\pache\source\repos\WinFormPictureBox\obj\Debug\net8.0-windows\refint\WinFormPictureBox.dll
+C:\Users\pache\source\repos\WinFormPictureBox\obj\Debug\net8.0-windows\WinFormPictureBox.pdb
+C:\Users\pache\source\repos\WinFormPictureBox\obj\Debug\net8.0-windows\WinFormPictureBox.genruntimeconfig.cache
+C:\Users\pache\source\repos\WinFormPictureBox\obj\Debug\net8.0-windows\ref\WinFormPictureBox.dll
